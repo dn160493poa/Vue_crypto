@@ -1,5 +1,5 @@
 const API_KEY =
-  "380ec498044c900f249ad39326e8320a2cb4ee09b94afe4dff6911e37ef56bfc";
+  "8e89065c4991f4c8baafe5d208bfacd1c75acb57553404c90a87bf885f45296f";
 
 const tickersHandlers = new Map(); // {}
 const socket = new WebSocket(
